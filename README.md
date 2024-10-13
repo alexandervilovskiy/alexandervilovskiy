@@ -6,7 +6,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=alexandervilovskiy&show_icons=true" alt="Github Stats" />
   </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervilovskiy&theme=dark" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandervilovskiy&theme=dark" alt="Profile Details" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervilovskiy&theme=dark" alt="Top Langs" />

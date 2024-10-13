@@ -1,52 +1,16 @@
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=alexandervilovskiy&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandervilovskiy&show_icons=true" alt="Github Stats" />
-  </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervilovskiy&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandervilovskiy&theme=dark" alt="Profile Details" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervilovskiy&theme=dark" alt="Top Langs" />
-  </a>
-</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Alexander+Vilovskiy+,+i+love+eat+pizza)](https://git.io/typing-svg)
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danial_samoev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gomoseky) 
 
-<p align="center">
-  🌱 Сейчас я учу <strong>React</strong> и постоянно изучаю новые технологии.
-</p>
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=alexandervilovskiy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexandervilovskiy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervilovskiy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<hr style="border:1px solid black">
-
-<h2 align="center">Интересные факты</h2>
-<p align="center">
-  - 👀 Мне нравится кодить на <strong>React, JavaScript, JSX, SCSS, HTML и Python</strong>. <br>
-  - 😄 Местоимения: <strong>he/his/him</strong>. <br>
-  - ⚡ Интересный факт: Я <strong>сигма</strong>.
-</p>
-
-<hr style="border:1px solid black">
-
-<h2 align="center">Навыки</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=black" alt="SCSS" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
-</p>
-
-<hr style="border:1px solid black">
-
-<h2 align="center">Контакты</h2>
-<p align="center">
-  📫 <strong>Telegram</strong>: <a href="https://t.me/alexandervilovskiy" target="_blank">@alexandervilovskiy</a>
-</p>
-
-<hr style="border:1px solid black">
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h2 align="center">Discord статус</h2>
 <p align="center">
@@ -55,31 +19,5 @@
   </a>
 </p>
 
-<hr style="border:1px solid black">
-
-<h2 align="center">GitHub трофеи</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandervilovskiy&theme=dark&row=1&column=6" alt="Trophies" />
-</p>
-
-<hr style="border:1px solid black">
-
-<h2 align="center">Моя активность</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandervilovskiy&theme=dark" alt="Activity Graph" />
-</p>
-
-<hr style="border:1px solid black">
-
-<h2 align="center">Прогресс по годам</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=alexandervilovskiy&theme=dark" alt="Commit Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandervilovskiy&theme=dark" alt="Productive Time" />
-</p>
-
-<hr style="border:1px solid black">
-
-<h2 align="center">Мои проекты и достижения</h2>
-<p align="center">
-  <a href="https://swated.ru" target="_blank" style="color: #0d6efd; text-decoration: none;">swated.ru</a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=alexandervilovskiy&icon=0&color=12)](https://visitcount.itsvg.in)
